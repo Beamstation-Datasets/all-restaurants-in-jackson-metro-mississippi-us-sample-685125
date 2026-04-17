@@ -1,0 +1,12 @@
+{
+  "export_job_id": "5dcda62c-b378-47e6-b240-89b91f453ed2",
+  "id_short": 685125,
+  "published_at": "2026-04-17T19:54:46Z",
+  "repo_name": "all-restaurants-in-jackson-metro-mississippi-us-sample-685125",
+  "sample_asset_name": "beamstation_685125_restaurants-us-jacksonms_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/685125/beamstation_685125_restaurants-us-jacksonms_SAMPLE_DIST.csv",
+  "sample_records": 146,
+  "sample_sha256": "9dc601a084ce2e367616122b652da1686d23d04cbaf3dbb6c02515b34d74745b",
+  "sample_size_bytes": 532061,
+  "total_records": 1469
+}
