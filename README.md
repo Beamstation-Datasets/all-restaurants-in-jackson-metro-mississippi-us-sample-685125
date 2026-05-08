@@ -1,6 +1,6 @@
 # All Restaurants in Jackson (Metro), Mississippi, US
 
-> Free BeamStation sample export with 148 rows and masked direct-contact fields.
+> Free BeamStation sample export with 157 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `685125` |
 | Location | Jackson, MS |
 | Category | Restaurants |
-| Full dataset size | 1,482 records |
-| Free sample size | 148 records (9.99%) |
-| Last export | 2026-04-28T22:33:22.730257+00:00 |
+| Full dataset size | 1,573 records |
+| Free sample size | 157 records (9.98%) |
+| Last export | 2026-05-07T22:28:35.097970+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-jackson-metro-mississippi-us-sample-685125/releases/download/sample-latest/beamstation_685125_restaurants-us-jacksonms_SAMPLE_DIST.csv) |
 
 ## What is in this sample
